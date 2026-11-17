@@ -1,16 +1,14 @@
-## Hi there 👋
+# Milad Sahebi
 
-<!--
-**milad-nextgencoder/milad-nextgencoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Web Development**
 
-Here are some ideas to get you started:
+I build practical, responsive web experiences for communities and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- [Afghan Students Association in Malaysia (ASAM)](https://github.com/milad-nextgencoder/asam-malaysia) — Official association website. [Live site](https://asam-malaysia.vercel.app)
+- [Personal website](https://github.com/milad-nextgencoder/milad-personal-site) — Portfolio built with HTML, CSS, and JavaScript.
+
+## Technologies
+
+TypeScript · JavaScript · HTML · CSS
